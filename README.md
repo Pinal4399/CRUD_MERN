@@ -31,3 +31,14 @@ README.md      → Project overview
 
 ![image](https://github.com/user-attachments/assets/1df391f3-ef2f-4935-b6d6-796b4208e3b5)
 
+# Installation & Setup Instructions
+Prerequisites
+1.Make sure you have the following installed:
+
+Node.js
+
+MongoDB
+
+npm or yarn
+2.  Clone the repo
+   
