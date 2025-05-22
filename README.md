@@ -12,7 +12,7 @@ Uses Axios for API requests
 Backend and frontend run concurrently during development
 
 # Technologies Used
-Frontend: React, Axios, Bootstrap/Tailwind (optional)
+Frontend: React, Axios
 
 Backend: Node.js, Express.js
 
