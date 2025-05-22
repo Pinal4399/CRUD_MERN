@@ -48,9 +48,12 @@ npm or yarn
 
 Now, your React app should be running on http://localhost:3000 and backend API on http://localhost:8000.
 
-# API Endpoints
-Method	Endpoint	Description
+# API Endpoints 
+
 GET	/	Get all uesr
+
 POST	/create	Add new user
+
 PUT	/update	Update an user
+
 DELETE	/delete/:id	Delete an user
