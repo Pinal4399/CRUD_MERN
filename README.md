@@ -24,4 +24,10 @@ Database: MongoDB (with Mongoose)
 /server        → Express backend
 
 README.md      → Project overview
+
+#Screenshots
+
 ![image](https://github.com/user-attachments/assets/769317e6-8f90-4697-8405-cda1568b100b)
+
+![image](https://github.com/user-attachments/assets/1df391f3-ef2f-4935-b6d6-796b4208e3b5)
+
