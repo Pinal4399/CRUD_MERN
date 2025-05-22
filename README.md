@@ -33,17 +33,21 @@ README.md      → Project overview
 
 # Installation & Setup Instructions
 Prerequisites
-1.Make sure you have the following installed:
+
+1. Make sure you have the following installed:
 
 Node.js
 
 MongoDB
 
 npm or yarn
-2.  Clone the repo
+
+2. Clone the repo
    git clone https://github.com/Pinal4399/CRUD_MERN.git
    cd CRUD_MERN
+   
 3. Setup Backend
+   
 4. Setup Frontend
 
 Now, your React app should be running on http://localhost:3000 and backend API on http://localhost:8000.
